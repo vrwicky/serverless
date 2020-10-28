@@ -1,0 +1,227 @@
+17/02/2020
+simplybe-uk - headers and list issue
+gucci-us    - headers and list issue menu skipped Psychedelic  done
+myer-au     - list error
+reserved-uk - new math 
+reserved-de - rerun
+stradivarius- list rerun
+lillypulitzer-us-  list rerun	
+
+18/02/2020
+coach-us     - second level menu name changed
+nike-de     - In sale 3rd level menu skipped
+jdwilliams  - list rerun
+wiggleus    - site maintenance
+elcorteingles-es  - list rerun product count is missing
+
+19/02/2020
+coach-us     - second level menu name changed
+tommy-de, tommy-es - site maintenance
+stevemadden-us  - [2][4] added a new condition in key value.
+mirapodo.de   - list rerun
+sportsmanswarehouse-za - menu changes from level3 
+burberry-uk - list rerun
+browniespain-es- detail rerun
+
+20/02/2020
+stradivarius- list rerun -zbuf error
+tommy-es - X count is high, so goldrush fail_reprocess given
+farfetch-uk - facet values are not collected. changed the regx.
+farfetch-us - facet values are not collected. changed the regx.
+thenorthface-us- list rerun - Z_BUF_ERROR  "ZIP conversion error"
+dune-za - list rerun
+cabelas-us - site maintenance
+etam-es - list rerun
+casasclub-es - list rerun
+asics-us - list rerun
+
+21/02/2020
+stradivarius- list rerun 
+patagonia-us - navigation changed. BA assistance needed.
+
+25/02/2020
+stradivarius- list rerun 3times started
+prettylittlething-uk - deleted the content and rerunagain
+quiz-uk  -list rerun 2time started, code changes in addurltoredis 
+thenorthface-uk- list rerun 
+very-uk   - list rerun 
+frenchconnection-au - list rerun 2times started
+generalpants-au   goldrush detail_reprocess
+casasclub-es - list rerun  , menu skipped cordones
+browniespain-es  --goldrush detail
+
+26/02/2020
+bloomingdales-us - list rerun
+burberry-uk      - list rerun
+casasclub-es     - facet url reformed
+
+27/02/2020
+stradivarius-de - list rerun
+hudsonsbay-us   - list rerun
+revolve-us      - list rerun delete the content and list rerun
+generalpants-au - detail reprocess
+browniespain-es  --goldrush detail
+
+28/02/2020
+stradivarius-de - list rerun
+landsend-us	- price issue
+asos-uk		- price issue
+asos-us		- price issue
+
+29/02/2020
+stradivarius-de - list rerun
+bloomingdales-us-goldrush detail
+zappos-us      - first level menu changed
+
+02/03/2020
+zappos-us      - first level menu changed
+mrporter-us    - fourth level menu changed
+lillypulitzer-us - failure reprocess
+casasclub-es     - list rerun
+
+03/03/2020
+zappos-us      - first level menu changed
+asos-uk- price issue fix
+asos-us- price issue fix
+fendi-uk- goldrush detail
+fendi-us- goldrush detail
+thenorthface-uk - nohup list
+americaneagle-us  - 5729_4553_682     x-access-token: 3a405d82-e8af-4c14-85a8-bc662c2a08c0
+
+04/03/2020 
+bloomingdales-us  goldrush detail
+coach-us   goldrush list,content deleted
+dickssportinggoods-us goldrush list
+harrods-uk 
+kohls-us        goldrush detail 
+mirapodo-de     
+stradivarius-de goldrush detail
+thenorthface-uk goldrush list
+thenorthface-us goldrush list
+tommy-us	goldrush list
+woolworths-za   goldrush detail
+very-uk		goldrush list
+zara-es		goldrush detail, goldrush detail_reprocess
+footlocker-us   goldrush list
+fabiani-za	goldrush list
+anthropologie-us goldrush detail
+baandsh-es-	 goldrush list
+casasclub-es	 goldrush list
+
+05/03/2020
+woolworths-za    goldrush detail
+thenorthface-uk  nohup list
+thenorthface-us  nohup list
+kohls-us        goldrush detail 
+andotherstories-uk goldrush list
+cosstores-de goldrush list
+forevernew-au - json regex changed
+
+06/03/2020
+forevernew-au - json regex changed
+asos-us- 	price issue fix
+
+07/03/2020
+stradivarius-de - goldrush list
+thenorthface-us-production ~ $ goldrush list 	
+thenorthface-uk-production ~ $ goldrush list
+planet54-za-production ~ $ goldrush list
+coach-us-production ~ $ goldrush list second level menu changed
+woolworths-za-production ~ $ goldrush detail
+
+11/03/2020
+zappos-us 	 	- goldrush list
+bimbaylola-es    	-goldrush detail, goldrush detail, detail reprocess
+harrods-uk 		 
+hudsonsbay-us 		-goldrush list
+stagestores-us  
+thenorthface-us	 	-goldrush list
+tommy-us         	-goldrush list, second level menu changed
+urbanoutfitters-us	 goldrush list
+woolworths-za		 goldrush detail
+elcorteingles-es	 goldrush detail
+bloomingdales-us	 goldrush detail
+calvinklein-us 		goldrush list
+next-uk 		goldrush detail
+fendi-us 		goldrush detail
+fendi-uk 		goldrush detail
+freepeople-us-production ~ :( $ goldrush list
+baandsh-es-production ~ $ goldrush detail
+kohls-us-production ~ $ goldrush detail
+scotchandsoda-es-production ~ $ goldrush list
+
+12/03/2020:
+h&m-de              goldrush list
+h&m-es              goldrush list
+harrods-uk 
+hm-ie               goldrush list
+hudsonsbay-us       goldrush list
+kohls-us 	    goldrush detail
+mirapodo-de         goldrush list
+mytheresa-de 	    goldrush list, 2nd level menu changed
+stagestores-us	    goldrush list
+stradivarius-de     goldrush detail
+thenorthface-uk     goldrush list
+thenorthface-us     goldrush list
+urbanoutfitters-us  goldrush list
+woolworths-za       goldrush detail
+fendi-us	    goldrush detail
+fendi-uk	    goldrush detail
+andotherstories-uk  goldrush list
+lillypulitzer-us    goldrush fail_reprocess
+
+
+PERL:
+
+1.The collection isn't completing automatically otto-de,macys-us due to the high count.So,we are running dump part manually.
+2.We are facing the N count issue for matches-uk while reaching the instock count 40K.We are having allocated 1.5hit/sec.
+3.we are facing the N count issue for mrporter-uk and bealls-us while reaching count 13k
+
+Gold rush:
+1.The data collection is not completing for aboutyou-de automatically due to the huge count(180K) issue.We are having 15K products in N due to this collection incompletion.
+2.The header is changing in sku level for americaneagle-us on daily basis.So,we are changing the header manually.
+3.The data collection is not completing for asos-uk and asos-us due to the slow response issue.
+4.The list is not automatically completing for bestandless-au due to the looping issue.
+5.The list is terminating for bloomingdales-us at the end of the list collection.
+6.The data collection is not completing for debenhams-uk due to the long running list and detail robot.
+7.We are facing the N count issue for elcorteingles-es while reaching the detail count 36k and 75K.
+8.The list is not completing automatically for gant-es and the retailer got blocked while reaching the instock count 680.
+9.We are facing the max client error for generalpants-au while reaching the y count 2800 approximately.
+10.The data collection is not completing for kohls-us due to the long running detail robot and  we are having 35K products in N due to this collection incompletion.
+11.The data collection is not completing for mirapodo-de due to the long running list and detail robot.
+12.The data collection is not completing for next-uk due to the long running list and detail robot and we are having the nearly 50% product drop.
+13.The list collection is not automatically completing for pepejeans-es.
+14.We are having the blockage issue for carbon38-us on a daily basis.
+15.We are having the N count issue for target-us when reaching detail count 13k.
+16.We are cloning tkmaxx-uk manually and monitoring the retailer with extra care to reduce the proxy cost..
+17.The list collection is not completing automaitcally for seedheritage-au , newbalance-us
+18.The list is terminating for thenorthface-us,thenorthface-uk due to the wrong content issue.
+19.We are having the product drop for lillypulitzer-us due to x count issue.
+20.We are facing list error for fendi-uk and fendi-us at the end of the list collection.So we are starting detail part manually.We may have the product drop due to this issue.
+21.The list is terminating  for woolworths-za at the end of the list collection due to the content issue.So,we are triggering list part manually .
+22.We are facing N count issue for  tommy-uk 
+
+
+
+1.The header is changing in sku level for americaneagle-us.Due to this issue we are changing the headers manually on a daily basis.
+2.We are facing list error for bergdorfgoodman-us due to the Esocket time out error.
+3.We are facing list error for bloomingdales-us at the end of the list collection.So,we are triggering detail part manually.
+4.We are facing list error for browniespain-es at the end of the list collection.So,we are triggering detail part manually.
+5.We are facing list error for woolworths-za at the end of the list collection due to the content issue.So,we are triggering list part manually more the 3 times.
+6.We are facing the looping issue for dickssportinggoods-us,finishline-us,pepejeans-es,bestandless-au. So we are terminating the list part manually and start the detail part.We may have the product drop in our collection due to this issue.
+7.We are facing list error for fendi-uk and fendi-us at the end of the list collection.So we are starting detail part manually.We may have the product drop due to this issue.
+8.We are facing the looping issue for gant-es in list side and the retailer is blocking while the detail count is reaching 600.
+9.We are facing N count issue for generalpants-au on a daily basis due to the max client error.
+10.We are facing X count issue for jdwilliams-uk due to the wrong content issue.Regarding this issue we are reprocessing the detail part once again.Due to this issue the proxy cost will increase
+11.The data collection isn't not completing automatically for kohls-us due to the high count.So,we are running dump part manually.
+12.We are having the product drop for lillypulitzer-us due to x count issue.
+13.We are facing the N count issue for target-us.So,we are running detail part manually.
+14.The list is terminating for thenorthface-us,thenorthface-uk due to the wrong content issue.
+15.We are cloning tkmaxx-uk manually and monitoring the retailer with extra care to reduce the proxy cost.
+16.We are facing N count issue for tommy-uk to the max client error.
+17.We are facing List error for wiggle-us due to the content issue.
+18.We are facing the X count issue for academy-us due to wrong content.  
+19.We are running dump part manually for asos-uk,asos-us,breuniger-de,davidjones-au,debenhams-uk,house_of_fraser-uk,johnlewis-uk,mirapodo-de,myer-au,mytheresa-de,next-uk,target-us to avoid the failures.   
+
+During api, stop the waiting response from api.
+no need to upload the api data to sql

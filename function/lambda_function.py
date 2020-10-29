@@ -1,15 +1,14 @@
 import json
 
+# import requests
+
 
 def lambda_handler(event, context):
-    body = {
-        "message": "Go Serverless v1.0! Your function executed successfully! ",
-        "input": event
-    }
 
-    response = {
+    return {
         "statusCode": 200,
-        "body": json.dumps(body)
+        "body": json.dumps({
+            "message": "hello world from git",
+            # "location": ip.text.replace("\n", "")
+        }),
     }
-
-    return response

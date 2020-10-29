@@ -15,4 +15,4 @@ jobs:
           aws_secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws_region: ap-south-1
           function_name: function
-          source: function/          
+          source: function/*          

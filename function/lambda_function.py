@@ -11,4 +11,4 @@ def lambda_handler(event, context):
             "message": "hello world from git",
             # "location": ip.text.replace("\n", "")
         }),
-    }
+    } 
